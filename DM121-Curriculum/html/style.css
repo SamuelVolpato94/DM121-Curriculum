@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+
+    box-sizing: margin-box;
+    color: white;
+    border: 0px;
+    background-color: rgb(39, 56, 155);
+    width: 29%;
+    height: 1000px;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+header .link {
+    padding-top: 10px;
+    color: aqua;
+}
+
+header .linkexternal {
+    padding-top: 10px;
+    color: white;
+}
+
+header .descript{
+    padding-top: 20px;
+}
+
+header .title{
+    color: aqua;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+header .imagem{
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 15px;
+}
+
+
+div{
+    
+    width: 60%;
+    float: right;
+    
+}
+
+div .title {
+    padding-top: 50px;
+    color: rgb(39, 56, 155);
+}
+
+div .subtitle {
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+div .info {
+    color: gray;
+    padding-bottom: 10px;
+}
